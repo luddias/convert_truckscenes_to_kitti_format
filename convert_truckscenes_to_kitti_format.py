@@ -1,6 +1,6 @@
-# Nuscenes dev-kit.
+# Original code from Nuscenes dev-kit.
 # Code written by Holger Caesar, 2019.
-# Code adapted by Ludmila Dias, 2023.
+# Code adapted by Ludmila Dias, 2025.
 
 """
 This script converts truckscenes data to KITTI format.
